@@ -11,14 +11,21 @@
 
 ## Установка
 
-1. Установи [Forge 1.16.5](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html)
-2. Скопируй `goldenspawner.jar` в папку `mods`
-3. Запусти Minecraft
+### Готовый мод (рекомендуется)
 
-## Сборка
+1. Скачай `goldenspawner.jar` из [Releases](https://github.com/markALSOgame/HollyWorld-GoldenSpawner/releases/latest)
+2. Установи [Forge 1.16.5](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html)
+3. Скопируй `goldenspawner.jar` в папку `mods`
+4. Запусти Minecraft
+
+### Из исходников (для модификации)
+
+Если хочешь внести свои изменения — клонируй репозиторий и собери сам:
 
 ```bash
+git clone https://github.com/markALSOgame/HollyWorld-GoldenSpawner.git
+cd HollyWorld-GoldenSpawner
 ./gradlew build
 ```
 
-JAR будет в `build/libs/goldenspawner-1.0.0.jar`
+JAR будет в `build/libs/goldenspawner.jar`
