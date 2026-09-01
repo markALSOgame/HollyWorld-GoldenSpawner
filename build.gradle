@@ -16,7 +16,7 @@ plugins {
 apply plugin: 'net.minecraftforge.gradle'
 
 group = 'goldenspawner'
-version = '1.0.0'
+version = ''
 archivesBaseName = 'goldenspawner'
 
 java {

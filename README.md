@@ -12,7 +12,7 @@
 ## Установка
 
 1. Установи [Forge 1.16.5](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html)
-2. Скопируй `goldenspawner-1.0.0.jar` в папку `mods`
+2. Скопируй `goldenspawner.jar` в папку `mods`
 3. Запусти Minecraft
 
 ## Сборка
